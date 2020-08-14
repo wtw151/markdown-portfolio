@@ -12,3 +12,9 @@ Here is a list of some things
        - wow
          - Inception
 5. keyboards
+
+<details>
+   <summary> Here's a dropdown?</summary>
+   Did it work?  
+   :confused:
+</details>
