@@ -1,1 +1,3 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+I think this is how to insert an image  
+![an image of OctoCat as Strong Bad](https://octodex.github.com/images/strongbadtocat.png)  
+How cute!
